@@ -1,0 +1,90 @@
+{
+  "name": "General Knowledge",
+  "words": [
+    "Paris", "Oxygen", "Everest", "Jupiter", "Gold",
+    "Shakespeare", "Diamond", "Pacific", "Newton", "Amazon"
+  ],
+  "quiz": [
+    {"question": "What is the capital city of France?", "options": ["Rome", "Madrid", "Paris", "Berlin"], "correct": 2, "term": "Paris"},
+    {"question": "Which gas do plants absorb during photosynthesis?", "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Argon"], "correct": 0, "term": "Carbon Dioxide"},
+    {"question": "What is the highest mountain peak in the world?", "options": ["K2", "Kangchenjunga", "Everest", "Lhotse"], "correct": 2, "term": "Everest"},
+    {"question": "Which planet is the largest in our solar system?", "options": ["Saturn", "Jupiter", "Neptune", "Uranus"], "correct": 1, "term": "Jupiter"},
+    {"question": "What chemical element has the symbol Au?", "options": ["Silver", "Iron", "Gold", "Copper"], "correct": 2, "term": "Gold"},
+    {"question": "Who wrote the play Romeo and Juliet?", "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"], "correct": 1, "term": "Shakespeare"},
+    {"question": "What is the hardest naturally occurring mineral on Earth?", "options": ["Ruby", "Topaz", "Diamond", "Quartz"], "correct": 2, "term": "Diamond"},
+    {"question": "Which is the largest ocean on Earth?", "options": ["Atlantic", "Indian", "Arctic", "Pacific"], "correct": 3, "term": "Pacific"},
+    {"question": "Who formulated the law of universal gravitation?", "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"], "correct": 1, "term": "Newton"},
+    {"question": "Which river carries the greatest volume of water in the world?", "options": ["Nile", "Amazon", "Yangtze", "Mississippi"], "correct": 1, "term": "Amazon"},
+    {"question": "What is the capital of Japan?", "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"], "correct": 2, "term": "Tokyo"},
+    {"question": "How many continents are there on Earth?", "options": ["5", "6", "7", "8"], "correct": 2, "term": "Seven"},
+    {"question": "Which planet is known as the Red Planet?", "options": ["Venus", "Mars", "Mercury", "Jupiter"], "correct": 1, "term": "Mars"},
+    {"question": "What is the chemical formula for table salt?", "options": ["KCl", "NaCl", "CaCO3", "MgSO4"], "correct": 1, "term": "NaCl"},
+    {"question": "Who painted the Mona Lisa?", "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"], "correct": 2, "term": "Leonardo"},
+    {"question": "What is the currency of the United Kingdom?", "options": ["Euro", "Dollar", "Pound Sterling", "Yen"], "correct": 2, "term": "Pound"},
+    {"question": "Which instrument measures atmospheric pressure?", "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"], "correct": 1, "term": "Barometer"},
+    {"question": "Which organ pumps blood throughout the human body?", "options": ["Brain", "Lungs", "Heart", "Liver"], "correct": 2, "term": "Heart"},
+    {"question": "What is the speed of light in vacuum approximately?", "options": ["300,000 km/s", "150,000 km/s", "30,000 km/s", "3,000 km/s"], "correct": 0, "term": "LightSpeed"},
+    {"question": "Which continent is known as the Dark Continent historically?", "options": ["Asia", "Africa", "South America", "Australia"], "correct": 1, "term": "Africa"},
+    {"question": "What is the square root of 144?", "options": ["10", "11", "12", "14"], "correct": 2, "term": "Twelve"},
+    {"question": "Which country is home to the kangaroo?", "options": ["New Zealand", "Australia", "South Africa", "Kenya"], "correct": 1, "term": "Australia"},
+    {"question": "What is the boiling point of pure water at sea level?", "options": ["90°C", "100°C", "110°C", "120°C"], "correct": 1, "term": "BoilingPoint"},
+    {"question": "Who was the first person to step on the Moon?", "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"], "correct": 2, "term": "Armstrong"},
+    {"question": "What is the capital of Canada?", "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"], "correct": 2, "term": "Ottawa"},
+    {"question": "Which vitamin is synthesized in human skin when exposed to sunlight?", "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"], "correct": 3, "term": "VitaminD"},
+    {"question": "Which gas makes up approximately 78% of Earth's atmosphere?", "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"], "correct": 2, "term": "Nitrogen"},
+    {"question": "In computer terminology, what does RAM stand for?", "options": ["Read Access Memory", "Random Access Memory", "Run Auto Memory", "Rapid Array Memory"], "correct": 1, "term": "RAM"},
+    {"question": "What is the capital of India?", "options": ["Mumbai", "New Delhi", "Kolkata", "Bengaluru"], "correct": 1, "term": "Delhi"},
+    {"question": "Which mammal is capable of true sustained flight?", "options": ["Flying Squirrel", "Bat", "Sugar Glider", "Colugo"], "correct": 1, "term": "Bat"},
+    {"question": "Who developed the theory of relativity?", "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Max Planck"], "correct": 1, "term": "Einstein"},
+    {"question": "What is the largest living land animal?", "options": ["African Elephant", "White Rhinoceros", "Hippopotamus", "Giraffe"], "correct": 0, "term": "Elephant"},
+    {"question": "Which element has atomic number 1?", "options": ["Helium", "Hydrogen", "Lithium", "Carbon"], "correct": 1, "term": "Hydrogen"},
+    {"question": "What is the primary language spoken in Brazil?", "options": ["Spanish", "Portuguese", "French", "English"], "correct": 1, "term": "Portuguese"},
+    {"question": "How many days are in a leap year?", "options": ["364", "365", "366", "367"], "correct": 2, "term": "LeapYear"},
+    {"question": "Which country is called the Land of the Rising Sun?", "options": ["China", "Japan", "South Korea", "Thailand"], "correct": 1, "term": "Japan"},
+    {"question": "What is the capital of Germany?", "options": ["Munich", "Frankfurt", "Berlin", "Hamburg"], "correct": 2, "term": "Berlin"},
+    {"question": "What is the main component of Earth's core?", "options": ["Iron and Nickel", "Silicon and Aluminium", "Magnesium", "Carbon"], "correct": 0, "term": "IronCore"},
+    {"question": "Which bird is known for its ability to mimic human speech?", "options": ["Eagle", "Parrot", "Sparrow", "Pigeon"], "correct": 1, "term": "Parrot"},
+    {"question": "What is the tallest tree species in the world?", "options": ["Coast Redwood", "Douglas Fir", "Giant Sequoia", "Eucalyptus"], "correct": 0, "term": "Redwood"},
+    {"question": "In physics, what is the unit of electric current?", "options": ["Volt", "Ampere", "Ohm", "Watt"], "correct": 1, "term": "Ampere"},
+    {"question": "What is the capital city of Australia?", "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"], "correct": 2, "term": "Canberra"},
+    {"question": "Who invented the telephone?", "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"], "correct": 1, "term": "Bell"},
+    {"question": "Which desert is the largest hot desert on Earth?", "options": ["Gobi", "Kalahari", "Sahara", "Arabian"], "correct": 2, "term": "Sahara"},
+    {"question": "What is the freezing point of water in Fahrenheit?", "options": ["0°F", "32°F", "100°F", "212°F"], "correct": 1, "term": "FreezingF"},
+    {"question": "Which blood cells help fight infections in the human body?", "options": ["Red Blood Cells", "Platelets", "White Blood Cells", "Plasma"], "correct": 2, "term": "WhiteCells"},
+    {"question": "What is the capital of Italy?", "options": ["Venice", "Florence", "Rome", "Milan"], "correct": 2, "term": "Rome"},
+    {"question": "Which metal is liquid at standard room temperature?", "options": ["Mercury", "Gallium", "Lead", "Tin"], "correct": 0, "term": "Mercury"},
+    {"question": "How many degrees are in a complete circle?", "options": ["180°", "270°", "360°", "400°"], "correct": 2, "term": "CircleDeg"},
+    {"question": "Which ocean lies between North America and Europe?", "options": ["Pacific", "Atlantic", "Indian", "Arctic"], "correct": 1, "term": "Atlantic"}
+  ],
+  "riddles": [
+    {
+      "question": "I am the city of lights and the capital of France. What am I?",
+      "answer": "PARIS"
+    },
+    {
+      "question": "I am the highest peak on Earth that touches the clouds.",
+      "answer": "EVEREST"
+    },
+    {
+      "question": "I am the hardest natural mineral, made of pure carbon.",
+      "answer": "DIAMOND"
+    }
+  ],
+  "escape_keyword": "KNOWLEDGE",
+  "escape_riddle": {
+    "question": "The pursuit of facts, learning, and truth gives you ________.",
+    "answer": "KNOWLEDGE"
+  },
+  "tunnel_questions": [
+    {"question": "The force that pulls all objects toward the center of the Earth is ________.", "answer": "GRAVITY"},
+    {"question": "Plants breathe out oxygen and take in ________ dioxide.", "answer": "CARBON"},
+    {"question": "The primary source of light and heat for all life on Earth is the ________.", "answer": "SUN"},
+    {"question": "Water turns to ice at zero degrees Celsius; this is its ________ point.", "answer": "FREEZING"},
+    {"question": "The speed of light travels through vacuum faster than the speed of ________.", "answer": "SOUND"},
+    {"question": "The layer of atmosphere that protects Earth from harmful ultraviolet rays is ________.", "answer": "OZONE"},
+    {"question": "The ancient red planet fourth in order from the Sun is ________.", "answer": "MARS"},
+    {"question": "The organ in the human body responsible for pumping oxygenated blood is the ________.", "answer": "HEART"},
+    {"question": "The largest and deepest body of water on planet Earth is the ________ Ocean.", "answer": "PACIFIC"},
+    {"question": "The pursuit of facts, learning, and truth gives you ________.", "answer": "KNOWLEDGE"}
+  ]
+}

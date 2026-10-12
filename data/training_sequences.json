@@ -1,0 +1,22 @@
+[
+    ["gap", "spike", "moving_platform", "gap", "enemy", "spike"],
+    ["spike", "spike", "gap", "moving_platform", "enemy"],
+    ["enemy", "gap", "spike", "moving_platform", "spike", "gap"],
+    ["moving_platform", "gap", "spike", "enemy", "gap", "moving_platform"],
+    ["gap", "moving_platform", "spike", "spike", "gap", "enemy"],
+    ["spike", "gap", "enemy", "moving_platform", "gap", "spike", "enemy"],
+    ["enemy", "spike", "gap", "gap", "moving_platform", "spike"],
+    ["moving_platform", "spike", "gap", "enemy", "spike", "moving_platform", "gap"],
+    ["gap", "spike", "enemy", "gap", "spike", "moving_platform", "enemy"],
+    ["spike", "moving_platform", "gap", "spike", "enemy", "gap"],
+    ["gap", "gap", "spike", "moving_platform", "enemy", "spike", "gap"],
+    ["enemy", "moving_platform", "spike", "gap", "spike", "enemy"],
+    ["spike", "gap", "moving_platform", "spike", "gap", "enemy", "spike"],
+    ["moving_platform", "enemy", "gap", "spike", "moving_platform", "gap"],
+    ["gap", "enemy", "spike", "spike", "moving_platform", "gap", "enemy"],
+    ["spike", "enemy", "moving_platform", "gap", "spike", "gap"],
+    ["enemy", "gap", "moving_platform", "spike", "enemy", "gap", "spike"],
+    ["moving_platform", "spike", "enemy", "gap", "moving_platform", "spike"],
+    ["gap", "spike", "gap", "enemy", "moving_platform", "spike", "gap"],
+    ["spike", "gap", "spike", "moving_platform", "gap", "enemy", "moving_platform"]
+]
